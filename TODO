@@ -1,0 +1,11 @@
+Main goal for now is get world running
+	* Make build configuration file for Eclipse IDE
+	* Fix logon/world struct errors in DB
+	* Make overall assasment for major bugs
+	* Rewrite Vmaps extractor (LoS is must have, Soon(tm))
+	
+	
+	
+Notice: Currently project will be developed on windows and therefore there wont be UNIX build 
+		update. After all major problems are fixed goal will be to return to UNIX as 
+		main server OS.
